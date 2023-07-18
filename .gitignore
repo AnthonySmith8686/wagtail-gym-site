@@ -1,0 +1,27 @@
+# Virtual environment
+venv/
+
+# Python cache
+__pycache__/
+
+# Django and Wagtail generated files
+*.pyc
+*.pyo
+*.pyd
+db.sqlite3
+media/
+
+# Local development settings
+settings/local.py
+
+# Editor and IDE files
+.vscode/
+.idea/
+
+# Log files
+*.log
+
+# Miscellaneous
+*.swp
+*.swo
+.DS_Store
